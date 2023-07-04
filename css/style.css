@@ -7,6 +7,8 @@ h2{
     text-align: center;
     padding: 10px;
     margin: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 .productos{
@@ -19,4 +21,8 @@ h2{
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+}
+
+.bg-body-tertiary {
+    background-color: rgb(83, 83, 196) !important;
 }
